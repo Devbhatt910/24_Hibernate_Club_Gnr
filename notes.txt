@@ -1,0 +1,28 @@
+spring starter project 
+
+spring web
+spring boot devtools 
+spring data jpa 
+mysql driver 
+
+
+folders -> 	views -> jsp ->
+	main -> webapp->WEB-INF/views 
+	java->com->controller
+	
+pom.xml 
+	tomcat embeded jasper 
+	
+application.properties -> config 
+	server port 
+	views : jsp 
+	database 
+	hibernate 
+	
+-----------------------------------------------------------------------------------
+
+ORM 
+
+class -> table
+
+class -> table -> entity class ->  
